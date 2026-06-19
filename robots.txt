@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blolesep66.github.io/mzh-leyu-com-cn/sitemap.xml
